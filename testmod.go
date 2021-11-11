@@ -1,7 +1,7 @@
-package modulesTry1
+package testmod
 
 import "fmt"
 
-func Print() {
-	fmt.Println("Hello World")
+func Salut() {
+	fmt.Println("Salut World")
 }
